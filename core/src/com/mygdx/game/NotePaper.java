@@ -6,6 +6,8 @@ import com.badlogic.gdx.scenes.scene2d.actions.MoveToAction;
 import java.util.ArrayList;
 import java.util.List;
 
+// actor class for the note paper graphic, see NoteText for the text itself
+
 public class NotePaper extends ActorBeta {
 
     float startX;
