@@ -2,6 +2,8 @@ package com.mygdx.game;
 
 import com.badlogic.gdx.scenes.scene2d.Stage;
 
+// actor class for the text (and only the text) that appears on paper pop up menus
+
 public class NoteText extends ActorBeta {
 
     NotePaper parent;
